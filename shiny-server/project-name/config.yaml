@@ -1,0 +1,7 @@
+# config.yaml
+datasets:
+  dataset_name:
+    object: "/srv/shiny-server/project-name/object.rds"
+    config: "/srv/shiny-server/project-name/object-config.yaml"
+
+    
