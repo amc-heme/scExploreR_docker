@@ -1,0 +1,7 @@
+.git
+.gitignore
+.DS_Store
+**/.DS_Store
+.vscode
+LICENSE
+README.md
